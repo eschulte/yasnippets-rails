@@ -1,0 +1,5 @@
+#name : <%= form_tag :action => " ... " %> $. <%= end_form_tag %>
+# --
+<%= form_tag :action => "$0update}" %>
+$0
+<%= end_form_tag %>

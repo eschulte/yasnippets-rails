@@ -1,0 +1,3 @@
+#name : <%= link_to " ... ", :controller => " ... ", :action => " ... ", :id =>  ...  %>
+# --
+<%= link_to "$0title}", :controller => "$0items}", :action => "$0edit}", :id => $0@item} %>
