@@ -7,11 +7,11 @@ contents:
 
 - setup.el: contains some configuration options for using yasnippets
               in a Ruby on Rails project, specifically in .rhtml files
-              alongside Rhtml-Mode and MuMaMo-Mode
+              alongside Rhtml-Mode or MuMaMo-Mode
 
 - rails-snippets: the actual directory of snippets
 
-- util: The file I used to convert these snippets from
+- util: The elisp I used to convert these snippets from
               rinari-abbrevs.el.  All credit for their content goes to
-              the creaters of rinari-abbrevs.el... ``Thanks to
+              the creators of rinari-abbrevs.el... ``Thanks to
               TextMate, Pete Kazmier, and Galinsky Dmitry''
