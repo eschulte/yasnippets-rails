@@ -1,5 +1,5 @@
 #name : <% unless  ...  -%> $. <% end -%>
 # --
-<% unless $0cond} -%>
+<% unless ${cond} -%>
 $0
 <% end -%>
