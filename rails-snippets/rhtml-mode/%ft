@@ -1,5 +1,5 @@
-#name : <%= form_tag :action => " ... " %> $. <%= end_form_tag %>
+#name : <% form_tag(:action => " ... ") do %> ... <% end  %>
 # --
-<%= form_tag :action => "${update}" %>
+<% form_tag(:action => "${update}") do %>
 $0
-<%= end_form_tag %>
+<% end %>
